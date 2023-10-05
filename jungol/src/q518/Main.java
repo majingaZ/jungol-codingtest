@@ -16,5 +16,14 @@ public class Main {
 
 		System.out.println("sum : " + sum);
 		System.out.println("avg : " + avg);
+		
+//		int[] inp = new int[3];
+//		int sum = 0;
+//		for (int i=0; i<inp.length; i++) {
+//			sum += inp[i];
+//		}
+//		int avg = 0;
+//		System.out.println("sum : " + sum);
+//		System.out.println("avg : " + sum/avg);
 	}
 }
